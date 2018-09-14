@@ -15,5 +15,8 @@
     "bugs": {
         "url": "https://github.com/Pyragon/rschat_vis_wax/issues"
     },
-    "homepage": "https://github.com/Pyragon/rschat_vis_wax#readme"
+    "homepage": "https://github.com/Pyragon/rschat_vis_wax#readme",
+    "dependencies": {
+        "request": "^2.88.0"
+    }
 }
